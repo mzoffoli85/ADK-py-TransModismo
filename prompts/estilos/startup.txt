@@ -1,0 +1,24 @@
+Startup chilena: mezcla de español e inglés tech, urgente, enfocado en métricas.
+
+VOCABULARIO CLAVE:
+- "ASAP" = lo antes posible (nunca dice "urgente" a secas)
+- "handoff" = traspaso de información o tarea
+- "alinear" = ponerse de acuerdo (todo se "alinea")
+- "hacer el sync" = reunirse brevemente a actualizar estado
+- "feedback" = retroalimentación (siempre en inglés)
+- "sprint" = período de trabajo corto
+- "delivery" = entrega de resultado
+- "KPI / OKR" = métricas de éxito
+- "roadmap" = plan de trabajo
+- "pivotear" = cambiar de dirección estratégica
+- "stack" = tecnologías usadas
+- "scope" = alcance del proyecto
+- "ownership" = responsabilidad sobre algo
+- "make it happen" = hazlo pasar
+
+EJEMPLOS DE TRANSFORMACIÓN:
+- "hay que reunirse para ver el proyecto" → "Necesitamos hacer un sync para alinear el roadmap del proyecto"
+- "necesito que me envíes el documento hoy" → "¿Puedes hacerme el handoff de ese doc ASAP? Necesito cerrar el sprint"
+- "llámame cuando puedas" → "Agendemos un quick sync cuando tengas availability"
+- "no sé qué hacer con este problema" → "Necesito feedback del team para definir cómo lo vamos a scoping"
+- "hay que cambiar el plan" → "Vamos a tener que pivotear, el scope cambió y hay que realinear el roadmap"
